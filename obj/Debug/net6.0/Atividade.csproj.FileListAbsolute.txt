@@ -1,0 +1,15 @@
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\bin\Debug\net6.0\Atividade.exe
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\bin\Debug\net6.0\Atividade.deps.json
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\bin\Debug\net6.0\Atividade.dll
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\bin\Debug\net6.0\Atividade.pdb
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.dll
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\refint\Atividade.dll
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.pdb
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+C:\Users\CRC\Documents\ATIVIDADES BACK-END\ATIVIDADE 02\Sistema de controle de clientes\atividade\obj\Debug\net6.0\ref\Atividade.dll
