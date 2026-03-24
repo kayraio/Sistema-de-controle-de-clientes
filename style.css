@@ -1,0 +1,72 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #eef2f7;
+  color: #1f2937;
+}
+
+.container {
+  max-width: 680px;
+  margin: 30px auto;
+  padding: 0 16px;
+}
+
+h1 {
+  margin-bottom: 6px;
+}
+
+.subtitulo {
+  margin-top: 0;
+  color: #4b5563;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #d8dee8;
+  border-radius: 10px;
+  padding: 16px;
+  margin-top: 14px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
+}
+
+label {
+  margin-top: 12px;
+  display: block;
+  font-weight: bold;
+}
+
+input,
+select {
+  margin-top: 5px;
+  padding: 9px;
+  width: 100%;
+  border: 1px solid #c8d1dd;
+  border-radius: 6px;
+}
+
+button {
+  margin-top: 18px;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d4ed8;
+}
+
+.hidden {
+  display: none;
+}
+
+#resultado {
+  line-height: 1.6;
+}
+
+#resultado h2 {
+  margin-top: 0;
+}
