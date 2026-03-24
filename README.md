@@ -1,4 +1,4 @@
-Sistema de Controle de Clientes
+# Sistema de Controle de Clientes
 
 Este projeto foi desenvolvido com o objetivo de praticar lógica de programação e orientação a objetos.  
 A aplicação realiza o cadastro de clientes e calcula o valor total de uma compra com base no tipo de cliente.
